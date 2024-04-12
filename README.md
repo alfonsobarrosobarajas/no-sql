@@ -31,3 +31,9 @@ $ java -Djava.library.path=./DynamoDBLocal_lib -jar DynamoDBLocal.jar -sharedDbj
 
 
 # MondoDb
+
+[MongoDb Community Server](https://www.mongodb.com/try/download/community-kubernetes-operator)
+
+[Mongosh](https://www.mongodb.com/docs/mongodb-shell/)
+
+[MongoDb Compass](https://www.mongodb.com/products/tools/compass)
